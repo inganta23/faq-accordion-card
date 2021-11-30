@@ -1,7 +1,7 @@
 # Frontend Mentor - Order summary card
 
 ## Welcome 👋
-This is a challenge from Frontend-Mentor. The purpose of this challenge is to improve my front-end skills.
+This is a challenge from [Frontend-Mentor Website](https://www.frontendmentor.io/challenges). The purpose of this challenge is to improve my front-end skills.
 
 ## Preview
 You can see the live result here → [FAQ Accordion Card](https://inganta23.github.io/faq-accordion-card/).
